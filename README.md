@@ -1,5 +1,5 @@
 # tinyFecVPN
-A VPN Designed for Lossy Connections, with Build-in Forward Error Correction Support, Improves your Network Quality on a High-latency Lossy Link. 
+A VPN Designed for Lossy Links, with Build-in Forward Error Correction Support, Improves your Network Quality on a High-latency Lossy Link. 
 
 ![image](/images/tinyFecVPN3.PNG)
 
