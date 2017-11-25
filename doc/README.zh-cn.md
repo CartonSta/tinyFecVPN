@@ -41,6 +41,10 @@ https://github.com/wangyu-/udp2raw-tunnel
 
 https://github.com/wangyu-/UDPspeeder/
 
+#### 关键词
+
+双边加速、全流量加速、开源加速器、游戏加速、网游加速器
+
 # 简明操作说明
 
 ### 环境要求
